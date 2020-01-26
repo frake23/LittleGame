@@ -1,0 +1,17 @@
+.startWrapper {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.exitWrapper {
+    width: 100%;
+    height: 46vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
